@@ -1,7 +1,7 @@
 import HText from "@/Types/HText";
 import { ClassType, SelectedPage } from "@/Types/types";
 import { motion } from "framer-motion";
-import React from "react";
+// import React from "react";
 import Class from "./Class";
 import image1 from "@/assets/image1.png";
 import image2 from "@/assets/image2.png";

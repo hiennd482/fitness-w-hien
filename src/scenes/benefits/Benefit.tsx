@@ -1,6 +1,6 @@
 import { SelectedPage } from "@/Types/types";
 import { motion } from "framer-motion";
-import React from "react";
+// import React from "react";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 
 const chilVariant = {

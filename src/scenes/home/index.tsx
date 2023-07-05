@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import { SelectedPage } from "@/Types/types";
 import HomePageText from "@/assets/HomePageText.png";
 import HomePageGraphic from "@/assets/HomePageGraphic.png";

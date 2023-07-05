@@ -1,13 +1,13 @@
-import { SelectedPage } from "@/Types/types";
-import React from "react";
+// import { SelectedPage } from "@/Types/types";
+// import React from "react";
 import Logo from "@/assets/Logo.png";
 import Ins from "@/assets/in2.png";
 import Fb from "@/assets/fb.png";
 import Git from "@/assets/github.png";
 
-type Props = { setSelectedPage: (value: SelectedPage) => void };
+// type Props = {};
 
-const Footer = ({ setSelectedPage }: Props) => {
+const Footer = () => {
   return (
     <footer className="bg-primary-100 py-6">
       <div className="justify-center mx-auto w-5/6 gap-16 md:flex">

@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+// import reactLogo from "./assets/react.svg";
+// import viteLogo from "/vite.svg";
 // import "./index.css";
 import Navbar from "@/scenes/navbar";
 import Benefits from "@/scenes/benefits";
@@ -36,7 +36,7 @@ function App() {
       <Benefits setSelectedPage={setSelectedPage}></Benefits>
       <ContactUs setSelectedPage={setSelectedPage}></ContactUs>
       <Ourclass setSelectedPage={setSelectedPage}></Ourclass>
-      <Footer setSelectedPage={setSelectedPage}></Footer>
+      <Footer></Footer>
     </div>
   );
 }
